@@ -1,7 +1,6 @@
 uniapp-double-click-directive
 
-English | 中文说明
-
+English | ## 中文说明
 English
 
 A custom Vue directive for UniApp to detect double-click events, since UniApp does not support @dblclick natively.
@@ -84,7 +83,7 @@ export default {
 };
 </script>
 
-中文说明
+中文说明[返回英文](#english)
 
 这是一个 适用于 UniApp 的自定义双击指令，因为 UniApp 默认不支持 @dblclick。
 兼容 Vue2 / Vue3，支持 H5 和 App。
