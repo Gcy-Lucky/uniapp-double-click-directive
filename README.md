@@ -67,10 +67,10 @@ Vue.directive('double-click', doubleClick);
 
 // Vue 3
 app.directive('double-click', doubleClick);
-
+```
 
 Use in template
-
+```html
 <template>
   <view v-double-click="onDoubleClick">Double-click me</view>
 </template>
