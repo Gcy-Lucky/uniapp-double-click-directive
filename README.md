@@ -1,4 +1,4 @@
-uniapp-double-click-directive
+# uniapp-double-click-directive
 
 English | [中文说明](#中文说明)
 ## English
