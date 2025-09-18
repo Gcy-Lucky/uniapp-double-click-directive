@@ -6,7 +6,7 @@ English | [中文说明](#中文说明)
 A custom Vue directive for UniApp to detect double-click events, since UniApp does not support @dblclick natively.
 Compatible with Vue2 / Vue3, works on H5 and App.
 
-✨ Features
+ Features
 
 Easy to use (v-double-click)
 
@@ -16,14 +16,14 @@ Automatically unbinds on component unmount (no memory leaks)
 
 Configurable double-click interval (default: 300ms)
 
-📦 Installation
+ Installation
 
 Clone or copy the file into your project:
 
 # Clone repository
 git clone https://github.com/Gcy-Lucky/uniapp-double-click-directive.git
 
-🚀 Usage
+ #Usage
 
 Create directive directives/doubleClick.js
 
@@ -92,7 +92,7 @@ export default {
 这是一个 适用于 UniApp 的自定义双击指令，因为 UniApp 默认不支持 @dblclick。
 兼容 Vue2 / Vue3，支持 H5 和 App。
 
-✨ 功能
+ 功能
 
 简单易用（v-double-click）
 
@@ -102,15 +102,15 @@ export default {
 
 可配置双击间隔（默认 300ms）
 
-📦 安装方式
+ 安装方式
 
 直接克隆或复制文件到你的项目：
 
 git clone https://github.com/Gcy-Lucky/uniapp-double-click-directive.git
 
-🚀 使用方法
+ 使用方法
 
-在 directives/doubleClick.js 中创建指令（见英文部分代码）
+在 directives/doubleClick.js 中创建指令（见[英文部分代码](#Usage)）
 
 在 main.js 中注册指令
 
