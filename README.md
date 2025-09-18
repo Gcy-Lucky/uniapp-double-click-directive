@@ -21,7 +21,7 @@ Configurable double-click interval (default: 300ms)
 Clone or copy the file into your project:
 
 # Clone repository
-git clone https://github.com/your-username/uniapp-double-click-directive.git
+git clone https://github.com/Gcy-Lucky/uniapp-double-click-directive.git
 
 🚀 Usage
 
@@ -103,7 +103,7 @@ export default {
 
 直接克隆或复制文件到你的项目：
 
-git clone https://github.com/your-username/uniapp-double-click-directive.git
+git clone https://github.com/Gcy-Lucky/uniapp-double-click-directive.git
 
 🚀 使用方法
 
