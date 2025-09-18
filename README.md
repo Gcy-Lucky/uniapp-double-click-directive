@@ -27,6 +27,8 @@ git clone https://github.com/Gcy-Lucky/uniapp-double-click-directive.git
 
 Create directive directives/doubleClick.js
 
+```js
+// directives/doubleClick.js
 export const doubleClick = {
   mounted(el, binding) {
     let lastClickTime = 0;
@@ -53,10 +55,10 @@ export const doubleClick = {
     }
   }
 };
-
+```
 
 Register directive
-
+```js
 // main.js
 import { doubleClick } from '@/directives/doubleClick.js';
 
@@ -82,6 +84,7 @@ export default {
   }
 };
 </script>
+```
 
 ## 中文说明
 [返回英文](#english)
@@ -112,7 +115,7 @@ git clone https://github.com/Gcy-Lucky/uniapp-double-click-directive.git
 在 main.js 中注册指令
 
 在模板中使用：
-
+```html
 <view v-double-click="handleDoubleClick">双击我</view>
 
 methods: {
@@ -120,3 +123,4 @@ methods: {
     console.log('双击触发！');
   }
 }
+```
