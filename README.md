@@ -23,7 +23,7 @@ Clone or copy the file into your project:
 # Clone repository
 git clone https://github.com/Gcy-Lucky/uniapp-double-click-directive.git
 
- #Usage
+ ##Usage
 
 Create directive directives/doubleClick.js
 
